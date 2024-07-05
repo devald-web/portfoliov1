@@ -38,7 +38,7 @@ npm install
 4. Start the development server with:
 
 ```sh
-nom run dev
+npm run dev
 ```
 #
 
