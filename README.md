@@ -16,7 +16,7 @@ This will be updated. 📈
 - `package.json` - Project dependencies and scripts
 - `vercel.json` - Configuration for Vercel deployment
 
-## 🚀 Installation and use
+## 🚀 Installation
 
 1. Go to your desktop, open a terminal, preferably the git terminal, and clone this repository 
 
