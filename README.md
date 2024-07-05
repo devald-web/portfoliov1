@@ -60,7 +60,7 @@ npx devald
 ```
 
 </div>
-<p align="center"><img height="300px" align="center" src="https://raw.githubusercontent.com/devald-web/devald-web/main/npx_card-transformed.png"></p>
+<p align="center"><img height="200px" align="center" src="https://raw.githubusercontent.com/devald-web/devald-web/main/npx_card-transformed.png"></p>
 
 ### 🎁 Support Me
 
